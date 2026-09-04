@@ -1,5 +1,5 @@
-## RU Python Course Content
+RU Python Course Content
 
-# The Coursebook folder contains files from the course material, named by their chapter numbers
+The 'chapters' folder contains .ipynb scripts from the course material, named by their chapter numbers
 
-# The assignment folder contains files for the assignments.
+The assignment folder contains .ipynb assignment scripts.
